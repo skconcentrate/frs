@@ -1,6 +1,0 @@
-function output=calangle(nodelocate,i_temp,j_temp)
-difx=nodelocate(1,j_temp)-nodelocate(1,i_temp);
-dify=nodelocate(2,j_temp)-nodelocate(2,i_temp);
-anglesd=atand(dify/difx);
- 
-output=stadistance;
